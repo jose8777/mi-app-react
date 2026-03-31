@@ -19,8 +19,6 @@ function App() {
         <Routes>
             <Route path="/" element={<PaginaInicio/>}></Route>
             <Route path="/favoritos" element={<PaginaFavoritos/>}></Route>
-         
-
         </Routes>
 
       </nav>
